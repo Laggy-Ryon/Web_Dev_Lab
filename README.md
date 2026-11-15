@@ -1,82 +1,108 @@
-#  Web Development Lab
+# Web Development Lab | Practical Portfolio
 
-A collection of practical assignments completed as part of the Web Development Lab coursework at **Bosscoder School of Technology**.
+Welcome to my Web Development Lab repository. This repository contains my practical coursework, exercises, and frontend development projects completed during my first-year studies at **Bosscoder School of Technology**.
 
-This repository documents my learning journey in web development, covering command-line fundamentals, Git & GitHub, HTML, CSS, Flexbox, Grid, and responsive web design.
+The projects cover the fundamentals of web development, starting with terminal operations and version control before progressing into HTML, CSS, responsive layouts, Flexbox, and CSS Grid.
 
-##  Objectives
+---
 
-- Understand the fundamentals of web development.
-- Learn HTML structure and semantic elements.
-- Style web pages using CSS.
-- Understand Git and GitHub workflows.
-- Build responsive layouts using Flexbox and CSS Grid.
-- Develop practical problem-solving and frontend development skills.
+## About This Repository
 
-##  Technologies Used
+The objective of this repository is to document my progress in frontend development through hands-on assignments. Each practical focuses on applying specific concepts and building familiarity with modern web development tools and workflows.
 
-| Technology | Purpose |
+## Tech Stack
+
+| Tool / Technology | Application |
 |---|---|
-| HTML5 | Web page structure |
-| CSS3 | Styling and layouts |
-| Git | Version control |
-| GitHub | Repository management |
-| VS Code | Code editor |
-| Terminal | Command-line operations |
+| HTML5 | Semantic structure and webpage development |
+| CSS3 | Visual styling and layout design |
+| Git | Tracking code changes |
+| GitHub | Hosting projects and managing repositories |
+| Visual Studio Code | Development environment |
+| Terminal | Executing commands and Git operations |
 
-##  Practical Assignments
+## Coursework Overview
 
-| No. | Practical | Description |
+The repository is organized into 13 practical assignments.
+
+| Practical | Topic | Focus Area |
 |---|---|---|
-| P1 | Terminal Basics | Introduction to terminal commands |
-| P2 | Portfolio & Git | Creating a portfolio and learning Git |
-| P3 | Git Branches | Understanding branches and merging |
-| P4 | README & Version Tags | Creating README files and Git tags |
-| P5 | Semantic Bio | Building a semantic HTML biography |
-| P6 | Portfolio HTML | Creating a personal portfolio using HTML |
-| P7 | CSS Tokens | Understanding reusable CSS variables |
-| P8 | CSS Positioning | Exploring CSS positioning properties |
-| P9 | Responsive Flexbox | Building responsive layouts with Flexbox |
-| P10 | Advanced Flexbox | Practicing advanced Flexbox concepts |
-| P11 | Newspaper Grid | Creating a newspaper-style CSS Grid layout |
-| P12 | Projects Grid | Building a project showcase using CSS Grid |
-| P13 | Flexbox vs Grid | Comparing Flexbox and CSS Grid |
+| P1 | Terminal Basics | Command-line operations |
+| P2 | Portfolio & Git | Portfolio creation and Git initialization |
+| P3 | Git Branches | Branch management and merging |
+| P4 | README & Version Tags | Documentation and version control |
+| P5 | Semantic Bio | Semantic HTML elements |
+| P6 | Portfolio HTML | Personal portfolio development |
+| P7 | CSS Tokens | CSS variables and reusable styles |
+| P8 | CSS Positioning | Positioning and layout properties |
+| P9 | Responsive Flexbox | Flexible responsive layouts |
+| P10 | Advanced Flexbox | Advanced Flexbox implementation |
+| P11 | Newspaper Grid | Newspaper-style CSS Grid layout |
+| P12 | Projects Grid | Project gallery using CSS Grid |
+| P13 | Flexbox vs Grid | Comparison of CSS layout techniques |
 
-##  Repository Structure
+## Repository Organization
+
+The assignments are grouped into modules to keep the coursework structured and easy to navigate.
 
 ```text
 Web_Dev_Lab/
 │
-├── P1-Terminal/
-├── P2-Portfolio-Git/
-├── P3-Git-Branches/
-├── P4-README-Tags/
-├── P5-Semantic-Bio/
-├── P6-Portfolio-HTML/
-├── P7-CSS-Tokens/
-├── P8-CSS-Positioning/
-├── P9-Responsive-Flexbox/
-├── P10-Advanced-Flexbox/
-├── P11-Newspaper-Grid/
-├── P12-Projects-Grid/
-├── P13-Flexbox-vs-Grid/
+├── Module 1/
+│   ├── P1
+│   ├── P2
+│   ├── P3
+│   └── P4
+│
+├── Module 2/
+│   ├── P5
+│   ├── P6/
+│   ├── P7/
+│   ├── P8/
+│   └── ...
+│
+├── Module 3/
+│   ├── P10/
+│   ├── P11/
+│   ├── P12/
+│   └── P13/
 │
 └── README.md
-```
 
-##  Learning Outcomes
+Skills Developed
 
-Through these practical assignments, I am developing an understanding of:
+Working through these practicals helps me build experience in:
 
-- Structuring websites with HTML.
-- Styling and designing interfaces with CSS.
-- Managing code using Git and GitHub.
-- Creating responsive and flexible layouts.
-- Organizing frontend projects professionally.
+Writing structured and semantic HTML.
 
-##  Student Information
+Designing webpages with CSS.
 
-- **Name:** Shahib Alam Saifi
-- **Institution:** Bosscoder School of Technology
-- **Subject:** Web Development Lab
-- **Assignment:** Practical 1–13
+Implementing responsive layouts.
+
+Using Flexbox and CSS Grid.
+
+Managing repositories using Git.
+
+Creating branches and submitting Pull Requests.
+
+Maintaining organized project documentation.
+
+Student Details
+
+Field
+
+**Information**
+
+**Name** : Harshit Neog
+
+**Institution** : Bosscoder School of Technology
+
+**Subject** : Web Development Lab
+
+**Coursework** : Practical 1–13
+
+This repository serves as a record of my learning, experimentation, and progress in frontend web development.
+
+
+
+
