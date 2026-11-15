@@ -68,41 +68,29 @@ Web_Dev_Lab/
 │   └── P13/
 │
 └── README.md
+```
 
-Skills Developed
+## Skills Developed
 
 Working through these practicals helps me build experience in:
 
-Writing structured and semantic HTML.
+- Writing structured and semantic HTML.
+- Designing webpages with CSS.
+- Implementing responsive layouts.
+- Using Flexbox and CSS Grid.
+- Managing repositories using Git.
+- Creating branches and submitting Pull Requests.
+- Maintaining organized project documentation.
 
-Designing webpages with CSS.
+## Student Details
 
-Implementing responsive layouts.
+| Field | Information |
+|---|---|
+| Name | **Harshit Neog** |
+| Institution | Bosscoder School of Technology |
+| Subject | Web Development Lab |
+| Coursework | Practical 1–13 |
 
-Using Flexbox and CSS Grid.
+---
 
-Managing repositories using Git.
-
-Creating branches and submitting Pull Requests.
-
-Maintaining organized project documentation.
-
-Student Details
-
-Field
-
-**Information**
-
-**Name** : Harshit Neog
-
-**Institution** : Bosscoder School of Technology
-
-**Subject** : Web Development Lab
-
-**Coursework** : Practical 1–13
-
-This repository serves as a record of my learning, experimentation, and progress in frontend web development.
-
-
-
-
+*This repository serves as a record of my learning, experimentation, and progress in frontend web development.*
