@@ -6,62 +6,56 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: black;
+    background: black;
     color: white;
     padding: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }
 
-.links {
-    display: flex;
-    gap: 20px;
-}
-
-.links a {
+.navbar a {
     color: white;
     text-decoration: none;
+    margin: 15px;
 }
 
-/* Heading */
 h1 {
     text-align: center;
 }
 
-/* Card Grid using Flexbox */
+/* Grid */
 .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 20px;
-    padding: 20px;
+    width: 650px;
+    margin: 30px auto;
 }
 
+/* Cards */
 .card {
-    width: 300px;
-    background-color: lightgray;
-    text-align: center;
+    position: relative;
 }
 
 .card img {
     width: 100%;
 }
 
-/* Responsive Design */
-@media (max-width: 600px) {
+/* Overlay */
+.overlay {
+    position: absolute;
+    bottom: 0;
+    background: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
 
-    .navbar {
-        flex-direction: column;
-    }
-
-    .links {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .card {
-        width: 100%;
-    }
-
+.space {
+    height: 500px;
 }
